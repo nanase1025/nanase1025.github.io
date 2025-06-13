@@ -17,42 +17,75 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Hairong Shi, currently a 4th year student from [School of Biological Science and Medical Engineering](https://https://bme.buaa.edu.cn/), [Beihang University](https://ev.buaa.edu.cn/).
+I am Hairong Shi (石海蓉), currently a 4th year undergraduate student from [School of Biological Science and Medical Engineering](https://bme.buaa.edu.cn/), [Beihang University](https://ev.buaa.edu.cn/). I will start my Master's degree in Computer Science at [Keio University](https://www.keio.ac.jp/) in September 2025.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=bgb9UpgAAAAJ&hl=zh-CN&oi=ao'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interests include **Computer Vision**, **Generative Models**, and **Multimodal Models**. I am particularly passionate about developing AI systems that can understand and reason across multiple modalities, with applications in medical imaging and video understanding.
 
+I am currently working as a Research Intern at Colab@Beihang under the supervision of Professor Si Liu, and as an AIGC Research Intern at RightBrain.AI.
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.12*: &nbsp;🎉🎉 Our paper "VideoEspresso" has been accepted to **CVPR 2025** as an **Oral presentation** (Top 0.7%)! 
+- *2024.06*: &nbsp;🎉🎉 Our paper "Mask-Enhanced Segment Anything Model" has been accepted to **MICCAI 2024**!
+- *2025.03*: &nbsp;🎉🎉 Started my AIGC Research Internship at RightBrain.AI.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/videoespresso.png' alt="VideoEspresso" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[VideoEspresso: A Large-Scale Chain-of-Thought Dataset for Fine-Grained Video Reasoning via Core Frame Selection](https://arxiv.org/abs/2411.14794)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Hairong Shi**, Si Liu
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Project**](https://github.com/nanase1025) | [**Paper**](https://arxiv.org/abs/2411.14794) | **Oral Presentation (Top 0.7%)**
+- A large-scale chain-of-thought dataset for enhancing fine-grained video reasoning capabilities through core frame selection methodology.
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2024</div><img src='images/msam.png' alt="M-SAM" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Mask-Enhanced Segment Anything Model for Tumor Lesion Semantic Segmentation](https://arxiv.org/abs/2403.05912)
+
+**Hairong Shi** (Co-first author), Si Liu
+
+[**Project**](https://github.com/nanase1025) | [**Paper**](https://arxiv.org/abs/2403.05912)
+- A novel Mask-Enhanced Adapter (MEA) that enriches semantic information of medical images for precise 3D tumor lesion segmentation.
+</div>
+</div>
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.10* **Voyage Program Scholarship**, Beihang University
+- *2023.06* **Second Prize of Academic Excellence Scholarship** (2022-2023 Academic Year), Beihang University  
+- *2022.06* **First Prize of Academic Excellence Scholarship** (2021-2022 Academic Year), Beihang University
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.09 - 2027.08*, **Master of Computer Science**, Keio University, Japan
+- *2021.09 - 2025.06*, **Bachelor of Biomedical Engineering** (Medical Artificial Intelligence), Beihang University, China
+  - GPA: 3.78/4.0 (Top 5%), Rank: 4/72
+  - Main Courses: Pattern Recognition, Machine Learning, Computer Vision, Biomedical Image Processing
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 🔬 Research Experience
+- *2023.09 - 2025.03*, **Research Intern**, Colab@Beihang, supervised by Prof. Si Liu
+  - Multi-modal Large Language Models with Interleave Data
+  - Segment Anything Model with Mix of Experts (MoE)
+  - Medical Multimodal Large Language Models
+- *2023.04 - 2023.07*, **Research Assistant**, Beihang University, supervised by A.P. Guanglei Zhang
+  - Head and Neck Image Segmentation Based on Deep Learning
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2025.03 - Present*, **AIGC Research Intern**, RightBrain.AI, China
+- *2023.09 - 2025.03*, **Research Intern**, Colab@Beihang, Beihang University, China
+
+# 💪 Skills & Qualifications
+- **Programming**: Python, PyTorch, R Language
+- **AI/ML**: LLaVA, CLIP, BLIP, SAM, UNet family, Multimodal Models
+- **Languages**: 
+  - Mandarin Chinese (Native)
+  - English (IELTS: 7.0)
+  - Japanese (JLPT N2)
+
+# 📧 Contact
+- **Email**: 21375328@buaa.edu.cn, shihr1025@gmail.com
+- **Phone**: +86 13683163260
+- **GitHub**: [https://github.com/nanase1025](https://github.com/nanase1025)
