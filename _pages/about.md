@@ -33,24 +33,22 @@ I will become a member of [SMILAB@Keio University](https://smilab.org/) starting
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/videoespresso.png' alt="VideoEspresso" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[VideoEspresso: A Large-Scale Chain-of-Thought Dataset for Fine-Grained Video Reasoning via Core Frame Selection](https://arxiv.org/abs/2411.14794)
+[VideoEspresso: A Large-Scale Chain-of-Thought Dataset for Fine-Grained Video Reasoning via Core Frame Selection](https://openaccess.thecvf.com/content/CVPR2025/html/Han_VideoEspresso_A_Large-Scale_Chain-of-Thought_Dataset_for_Fine-Grained_Video_Reasoning_via_CVPR_2025_paper.html)
 
 Songhao Han, Wei Huang, **Hairong Shi**, Le Zhuo, Xiu Su, Shifeng Zhang, Xu Zhou, Xiaojuan Qi, Yue Liao, Si Liu
 
-[**Project**]([https://github.com/nanase1025](https://github.com/hshjerry/VideoEspresso)) | [**Paper**](https://openaccess.thecvf.com/content/CVPR2025/html/Han_VideoEspresso_A_Large-Scale_Chain-of-Thought_Dataset_for_Fine-Grained_Video_Reasoning_via_CVPR_2025_paper.html) | **Oral Presentation (Top 0.7%)**
-- A large-scale chain-of-thought dataset for enhancing fine-grained video reasoning capabilities through core frame selection methodology.
+[**Project**]([https://github.com/nanase1025](https://github.com/hshjerry/VideoEspresso)) | [**Paper**](https://openaccess.thecvf.com/content/CVPR2025/html/Han_VideoEspresso_A_Large-Scale_Chain-of-Thought_Dataset_for_Fine-Grained_Video_Reasoning_via_CVPR_2025_paper.html) | **CVPR 2025 Oral Presentation (Top 0.7%)**
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2024</div><img src='images/msam.png' alt="M-SAM" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Mask-Enhanced Segment Anything Model for Tumor Lesion Semantic Segmentation](https://arxiv.org/abs/2403.05912)
+[Mask-Enhanced Segment Anything Model for Tumor Lesion Semantic Segmentation](https://papers.miccai.org/miccai-2024/paper/0762_paper.pdf)
 
 **Hairong Shi**, Songhao Han, Shaofei Huang, Yue Liao, Guanbin Li, Xiangxing Kong, Hua Zhu, Xiaomu Wang, Si Liu
 
-[**Project**](https://github.com/nanase1025) | [**Paper**](https://arxiv.org/abs/2403.05912)
-- A novel Mask-Enhanced Adapter (MEA) that enriches semantic information of medical images for precise 3D tumor lesion segmentation.
+[**Project**](https://github.com/nanase1025) | [**Paper**](https://papers.miccai.org/miccai-2024/paper/0762_paper.pdf)
 </div>
 </div>
 
