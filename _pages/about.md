@@ -48,36 +48,32 @@ Songhao Han, Wei Huang, **Hairong Shi**, Le Zhuo, Xiu Su, Shifeng Zhang, Xu Zhou
 
 **Hairong Shi**, Songhao Han, Shaofei Huang, Yue Liao, Guanbin Li, Xiangxing Kong, Hua Zhu, Xiaomu Wang, Si Liu
 
-[**Project**](https://github.com/nanase1025) | [**Paper**](https://papers.miccai.org/miccai-2024/paper/0762_paper.pdf)
+[**Project**](https://github.com/nanase1025) | [**Paper**](https://papers.miccai.org/miccai-2024/paper/0762_paper.pdf) | **MICCAI 2024 Poster (Acceptance Rate: 31%)**
 </div>
 </div>
 
 # 🎖 Honors and Awards
+- *2025.06* **Outstanding Graduate Prize**, Beihang University 
+- *2024.06* **Second Prize of Academic Excellence Scholarship** (2023-2024 Academic Year), Beihang University 
 - *2023.10* **Voyage Program Scholarship**, Beihang University
 - *2023.06* **Second Prize of Academic Excellence Scholarship** (2022-2023 Academic Year), Beihang University  
 - *2022.06* **First Prize of Academic Excellence Scholarship** (2021-2022 Academic Year), Beihang University
 
 # 📖 Educations
-- *2025.09 - 2027.08*, **Master of Computer Science**, Keio University, Japan
+- *2025.09 - 2027.09*, **Master of Computer Science**, Keio University, Japan
 - *2021.09 - 2025.06*, **Bachelor of Biomedical Engineering** (Medical Artificial Intelligence), Beihang University, China
   - GPA: 3.78/4.0 (Top 5%), Rank: 4/72
-  - Main Courses: Pattern Recognition, Machine Learning, Computer Vision, Biomedical Image Processing
 
 # 🔬 Research Experience
-- *2023.09 - 2025.03*, **Research Intern**, Colab@Beihang, supervised by Prof. Si Liu
-  - Multi-modal Large Language Models with Interleave Data
-  - Segment Anything Model with Mix of Experts (MoE)
-  - Medical Multimodal Large Language Models
+- *2023.09 - 2025.03*, **Research Assistant**, Colab@Beihang, supervised by Prof. Si Liu
 - *2023.04 - 2023.07*, **Research Assistant**, Beihang University, supervised by A.P. Guanglei Zhang
-  - Head and Neck Image Segmentation Based on Deep Learning
 
 # 💻 Internships
-- *2025.03 - Present*, **AIGC Research Intern**, RightBrain.AI, China
-- *2023.09 - 2025.03*, **Research Intern**, Colab@Beihang, Beihang University, China
+- *2025.03 - Present*, **AIGC Research Intern**, RightBrain.AI, Beijing, China
+- *2024.07 - 2024.09*, **Medical MLLM Research Intern**, United Imaging Intelligence Research Institute, Beijing, China
 
 # 💪 Skills & Qualifications
-- **Programming**: Python, PyTorch, R Language
-- **AI/ML**: LLaVA, CLIP, BLIP, SAM, UNet family, Multimodal Models
+- **Programming**: Python, PyTorch
 - **Languages**: 
   - Mandarin Chinese (Native)
   - English (IELTS: 7.0)
