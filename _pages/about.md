@@ -35,7 +35,7 @@ I will become a member of [SMILAB@Keio University](https://smilab.org/) starting
 
 [VideoEspresso: A Large-Scale Chain-of-Thought Dataset for Fine-Grained Video Reasoning via Core Frame Selection](https://arxiv.org/abs/2411.14794)
 
-**Hairong Shi**, Si Liu
+Songhao Han, Wei Huang, **Hairong Shi**, Le Zhuo, Xiu Su, Shifeng Zhang, Xu Zhou, Xiaojuan Qi, Yue Liao, Si Liu
 
 [**Project**]([https://github.com/nanase1025](https://github.com/hshjerry/VideoEspresso)) | [**Paper**](https://openaccess.thecvf.com/content/CVPR2025/html/Han_VideoEspresso_A_Large-Scale_Chain-of-Thought_Dataset_for_Fine-Grained_Video_Reasoning_via_CVPR_2025_paper.html) | **Oral Presentation (Top 0.7%)**
 - A large-scale chain-of-thought dataset for enhancing fine-grained video reasoning capabilities through core frame selection methodology.
@@ -47,7 +47,7 @@ I will become a member of [SMILAB@Keio University](https://smilab.org/) starting
 
 [Mask-Enhanced Segment Anything Model for Tumor Lesion Semantic Segmentation](https://arxiv.org/abs/2403.05912)
 
-**Hairong Shi** (Co-first author), Si Liu
+**Hairong Shi**, Songhao Han, Shaofei Huang, Yue Liao, Guanbin Li, Xiangxing Kong, Hua Zhu, Xiaomu Wang, Si Liu
 
 [**Project**](https://github.com/nanase1025) | [**Paper**](https://arxiv.org/abs/2403.05912)
 - A novel Mask-Enhanced Adapter (MEA) that enriches semantic information of medical images for precise 3D tumor lesion segmentation.
