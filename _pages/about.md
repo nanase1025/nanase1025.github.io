@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I am Hairong Shi (史海容), and I will start my Master's degree in Computer Science at [Keio University](https://www.keio.ac.jp/) in September 2025. I was a undergraduate student from [School of Biological Science and Medical Engineering](https://bme.buaa.edu.cn/), [Beihang University](https://ev.buaa.edu.cn/).
+Hi! I am Hairong Shi (史海容), and I will start my Master's degree in Computer Science at [Keio University](https://www.keio.ac.jp/) in September 2025 under the supervision of Professor Komei Sugiura. I was a undergraduate student from [School of Biological Science and Medical Engineering](https://bme.buaa.edu.cn/), [Beihang University](https://ev.buaa.edu.cn/).
 
 My research interests include **Computer Vision**, **Generative Models**, and **Multimodal Models**. I am particularly passionate about developing AI systems that can understand and reason across multiple modalities, with applications in medical imaging and video understanding.
 
@@ -37,7 +37,7 @@ I will become a member of [SMILAB@Keio University](https://smilab.org/) starting
 
 **Hairong Shi**, Si Liu
 
-[**Project**](https://github.com/nanase1025) | [**Paper**](https://arxiv.org/abs/2411.14794) | **Oral Presentation (Top 0.7%)**
+[**Project**]([https://github.com/nanase1025](https://github.com/hshjerry/VideoEspresso)) | [**Paper**](https://openaccess.thecvf.com/content/CVPR2025/html/Han_VideoEspresso_A_Large-Scale_Chain-of-Thought_Dataset_for_Fine-Grained_Video_Reasoning_via_CVPR_2025_paper.html) | **Oral Presentation (Top 0.7%)**
 - A large-scale chain-of-thought dataset for enhancing fine-grained video reasoning capabilities through core frame selection methodology.
 </div>
 </div>
