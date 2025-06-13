@@ -17,11 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Hairong Shi (史海容), currently a 4th year undergraduate student from [School of Biological Science and Medical Engineering](https://bme.buaa.edu.cn/), [Beihang University](https://ev.buaa.edu.cn/). I will start my Master's degree in Computer Science at [Keio University](https://www.keio.ac.jp/) in September 2025.
+Hi! I am Hairong Shi (史海容), and I will start my Master's degree in Computer Science at [Keio University](https://www.keio.ac.jp/) in September 2025. I was a undergraduate student from [School of Biological Science and Medical Engineering](https://bme.buaa.edu.cn/), [Beihang University](https://ev.buaa.edu.cn/).
 
 My research interests include **Computer Vision**, **Generative Models**, and **Multimodal Models**. I am particularly passionate about developing AI systems that can understand and reason across multiple modalities, with applications in medical imaging and video understanding.
 
-I am currently working as a Research Intern at Colab@Beihang under the supervision of Professor Si Liu, and as an AIGC Research Intern at RightBrain.AI.
+I will become a member of [SMILAB@Keio University](https://smilab.org/) starting September 2025, and I am currently working as an AIGC Research Intern at [RightBrain.AI](https://rightbrainai.cn/home). Previously, I worked as a Research Intern at [Colab@Beihang](https://colalab.net/) under the supervision of Professor Si Liu.
 
 # 🔥 News
 - *2025.03*: &nbsp;🎉🎉 Started my AIGC Research Internship at RightBrain.AI.
