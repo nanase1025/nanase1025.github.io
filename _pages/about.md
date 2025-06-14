@@ -19,7 +19,7 @@ redirect_from:
 
 Hi! I am Hairong Shi (史海容), and I will start my Master's degree in Computer Science at [Keio University](https://www.keio.ac.jp/) in September 2025 under the supervision of Professor Komei Sugiura. I was a undergraduate student from [School of Biological Science and Medical Engineering](https://bme.buaa.edu.cn/), [Beihang University](https://ev.buaa.edu.cn/).
 
-My research interests include **Computer Vision**, **Generative Models**, and **Multimodal Models**. I am particularly passionate about developing AI systems that can understand and reason across multiple modalities, with applications in medical imaging and video understanding.
+My research interests include **Computer Vision**, **Generative Models**, and **Multimodal Models**. I am particularly passionate about developing AI systems that can understand and reason across multiple modalities, with applications in medical imaging and video understanding. My google scholar: <a href='https://scholar.google.com/citations?user=bgb9UpgAAAAJ&hl=zh-CN'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations">
 
 I will become a member of [SMILAB@Keio University](https://smilab.org/) starting September 2025, and I am currently working as an AIGC Research Intern at [RightBrain.AI](https://rightbrainai.cn/home). Previously, I worked as a Research Intern at [Colab@Beihang](https://colalab.net/) under the supervision of Professor Si Liu.
 
