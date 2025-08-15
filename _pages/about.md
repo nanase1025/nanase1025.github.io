@@ -82,9 +82,3 @@ Songhao Han, Wei Huang, **Hairong Shi**, Le Zhuo, Xiu Su, Shifeng Zhang, Xu Zhou
 - **Phone**: +86 13683163260
 - **GitHub**: [https://github.com/nanase1025](https://github.com/nanase1025)
 
-<div align="center" style="margin-top: 20px;">
-  <img src="https://komarev.com/ghpvc/?username=nanase1025&color=brightgreen&style=flat-square&label=Profile+Views" alt="Profile views" />
-  <br/>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=nanase1025.nanase1025.github.io" alt="visitors" />
-</div>
-
