@@ -31,7 +31,7 @@ I am a member of [SMILAB@Keio University](https://smilab.org/) since September 2
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/videoespresso.png' alt="VideoEspresso" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[VideoEspresso: A Large-Scale Chain-of-Thought Dataset for Fine-Grained Video Reasoning via Core Frame Selection](https://openaccess.thecvf.com/content/CVPR2025/html/Han_VideoEspresso_A_Large-Scale_Chain-of-Thought_Dataset_for_Fine-Grained_Video_Reasoning_via_CVPR_2025_paper.html)
+[VideoEspresso: A Large-Scale Chain-of-Thought Dataset for Fine-Grained Video Reasoning via Core Frame Selection](https://github.com/hshjerry/VideoEspresso)
 
 Songhao Han, Wei Huang, **Hairong Shi**, Le Zhuo, Xiu Su, Shifeng Zhang, Xu Zhou, Xiaojuan Qi, Yue Liao, Si Liu
 
@@ -46,7 +46,7 @@ Songhao Han, Wei Huang, **Hairong Shi**, Le Zhuo, Xiu Su, Shifeng Zhang, Xu Zhou
 
 **Hairong Shi**, Songhao Han, Shaofei Huang, Yue Liao, Guanbin Li, Xiangxing Kong, Hua Zhu, Xiaomu Wang, Si Liu
 
-[**Project**](https://github.com/nanase1025) | [**Paper**](https://papers.miccai.org/miccai-2024/paper/0762_paper.pdf) | **MICCAI 2024 Poster (Acceptance Rate: 31%)**
+[**Project**](https://github.com/nanase1025/M-SAM) | [**Paper**](https://papers.miccai.org/miccai-2024/paper/0762_paper.pdf) | **MICCAI 2024 Poster (Acceptance Rate: 31%)**
 </div>
 </div>
 
