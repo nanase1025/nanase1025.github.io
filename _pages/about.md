@@ -35,7 +35,7 @@ I am a member of [SMILAB@Keio University](https://smilab.org/) since September 2
 
 Songhao Han, Wei Huang, **Hairong Shi**, Le Zhuo, Xiu Su, Shifeng Zhang, Xu Zhou, Xiaojuan Qi, Yue Liao, Si Liu
 
-[**Project**](https://github.com/hshjerry/VideoEspresso) | [**Paper**](https://openaccess.thecvf.com/content/CVPR2025/html/Han_VideoEspresso_A_Large-Scale_Chain-of-Thought_Dataset_for_Fine-Grained_Video_Reasoning_via_CVPR_2025_paper.html) | `[Code - Coming Soon]` | **CVPR 2025 Oral Presentation (Top 0.7%)**
+[**Project**]([https://github.com/nanase1025](https://github.com/hshjerry/VideoEspresso)) | [**Paper**](https://openaccess.thecvf.com/content/CVPR2025/html/Han_VideoEspresso_A_Large-Scale_Chain-of-Thought_Dataset_for_Fine-Grained_Video_Reasoning_via_CVPR_2025_paper.html) | **CVPR 2025 Oral Presentation (Top 0.7%)**
 </div>
 </div>
 
@@ -44,9 +44,9 @@ Songhao Han, Wei Huang, **Hairong Shi**, Le Zhuo, Xiu Su, Shifeng Zhang, Xu Zhou
 
 [Mask-Enhanced Segment Anything Model for Tumor Lesion Semantic Segmentation](https://papers.miccai.org/miccai-2024/paper/0762_paper.pdf)
 
-**Hairong Shi**, Songhao Han, Shaofei Huang, Yue Liao, Guanbin Li, Xiangxing Kong, Hua Zhu, Xiaomu Wang, Si Liu
+**Hairong Shi**, Songhao Han, Shaofei Huang, Yue Liao, Guanbin Li, Xiangxing Kong, Hua Zhu, Xiaomu Wang, Si Liu
 
-[**Project**](https://github.com/nanase1025/M-SAM) | [**Paper**](https://papers.miccai.org/miccai-2024/paper/0762_paper.pdf) | `[Code]` | **MICCAI 2024 (Acceptance Rate: 31%)**
+[**Project**](https://github.com/nanase1025) | [**Paper**](https://papers.miccai.org/miccai-2024/paper/0762_paper.pdf) | **MICCAI 2024 Poster (Acceptance Rate: 31%)**
 </div>
 </div>
 
