@@ -70,9 +70,9 @@ Songhao Han, Wei Huang, **Hairong Shi**, Le Zhuo, Xiu Su, Shifeng Zhang, Xu Zhou
 
 # 💻 Internships
 - *2025.03 - 2025.07*, **AIGC Research Intern**, RightBrain.AI, Beijing, China
-  - Developed and experimented with generative models for [e.g., 'image synthesis and style transfer'].
+  - Developed and experimented with generative models for lipsync, video generation agent.
 - *2024.07 - 2024.09*, **Medical MLLM Research Intern**, United Imaging Intelligence, Beijing, China
-  - Contributed to the development of a Multimodal Large Language Model for [e.g., 'medical report generation and diagnostic assistance'].
+  - Contributed to the development of a Multimodal Large Language Model for Medical MLLM.
 
 # 💪 Skills
 - **Programming**: Python (PyTorch, Hugging Face Transformers, timm), C++
