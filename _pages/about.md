@@ -67,7 +67,7 @@ Songhao Han, Wei Huang, **Hairong Shi**, Le Zhuo, Xiu Su, Shifeng Zhang, Xu Zhou
 - *2023.09 - 2025.03*, **Research Assistant**, Colab@Beihang, supervised by Prof. Si Liu
   - Focused on video understanding and medical image segmentation. Contributed to the "VideoEspresso" and "M-SAM" projects, leading to publications at CVPR and MICCAI.
 - *2023.04 - 2023.07*, **Research Assistant**, Beihang University, supervised by A.P. Guanglei Zhang
-  - Conducted research on [briefly describe the topic, e.g., 'biomaterial data analysis using machine learning techniques'].
+  - Conducted research on Medical Computer Vision
 
 # 💻 Internships
 - *2025.03 - 2025.07*, **AIGC Research Intern**, RightBrain.AI, Beijing, China
