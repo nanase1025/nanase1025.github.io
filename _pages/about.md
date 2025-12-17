@@ -51,6 +51,7 @@ Songhao Han, Wei Huang, **Hairong Shi**, Le Zhuo, Xiu Su, Shifeng Zhang, Xu Zhou
 </div>
 
 # 🎖 Honors and Awards
+- *2025.11* **2025 Academic Year Monbukagakusho Honors Scholarship**, JASSO for Privately Financed International Students
 - *2025.06* **Outstanding Graduate Prize**, Beihang University 
 - *2024.06* **Academic Excellence Scholarship (Second Prize)**, Beihang University 
 - *2023.10* **Voyage Program Scholarship**, Beihang University
