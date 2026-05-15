@@ -84,7 +84,7 @@ Songhao Han, Wei Huang, **Hairong Shi**, Le Zhuo, Xiu Su, Shifeng Zhang, Xu Zhou
   - Japanese (JLPT N2)
 
 # 📧 Contact
-- **Email**: shihr1025@gmail.com (Primary), 21375328@buaa.edu.cn
+- **Email**: shihr1025@gmail.com (Primary), shihr@keio.jp
 - **GitHub**: [https://github.com/nanase1025](https://github.com/nanase1025)
 
 <div style="text-align: center; margin-top: 20px; height: 150px; overflow: hidden;">
