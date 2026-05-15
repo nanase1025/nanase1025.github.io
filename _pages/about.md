@@ -29,7 +29,7 @@ I am a member of [SMILAB@Keio University](https://smilab.org/) since September 2
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2026</div><img src='images/medvol.png' alt="MedVol-R1" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2026</div><img src='images/medvolr1.png' alt="MedVol-R1" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 MedVol-R1: Reward-Driven Evidence Grounding for Volumetric Reasoning Segmentation
