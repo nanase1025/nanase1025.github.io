@@ -29,6 +29,17 @@ I am a member of [SMILAB@Keio University](https://smilab.org/) since September 2
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2026</div><img src='images/medvol.png' alt="MedVol-R1" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+MedVol-R1: Reward-Driven Evidence Grounding for Volumetric Reasoning Segmentation
+
+Zichun Wang<sup>†</sup>, **Hairong Shi**<sup>†</sup>, Zihua Wang, Bingzheng Wei, Yan Xu
+
+<sup>†</sup>Equal Contribution | **MICCAI 2026 Early Accept (Top 9%)**
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/videoespresso.png' alt="VideoEspresso" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
