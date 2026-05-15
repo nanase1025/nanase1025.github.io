@@ -71,7 +71,7 @@ Songhao Han, Wei Huang, **Hairong Shi**, Le Zhuo, Xiu Su, Shifeng Zhang, Xu Zhou
 - *2022.06* **Academic Excellence Scholarship (First Prize)**, Beihang University
 
 # 📖 Education
-- *2025.09 - 2027.09 (Expected)*, **Master of Computer Science**, Keio University, Japan
+- *2025.09 - 2027.09*, **Master of Computer Science**, Keio University, Japan
 - *2021.09 - 2025.06*, **Bachelor of Biomedical Engineering** (Medical Artificial Intelligence), Beihang University, China
   - GPA: 3.78/4.0 (Top 5%), Rank: 4/72
 
