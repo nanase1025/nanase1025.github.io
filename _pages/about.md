@@ -88,7 +88,7 @@ Songhao Han, Wei Huang, **Hairong Shi**, Le Zhuo, Xiu Su, Shifeng Zhang, Xu Zhou
 - **GitHub**: [https://github.com/nanase1025](https://github.com/nanase1025)
 
 <div style="text-align: center; margin-top: 20px; height: 150px; overflow: hidden;">
-<div style="transform: scale(0.4); transform-origin: top center;">
+<div style="transform: scale(0.3); transform-origin: top center;">
 <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=BFFqIlrKn4IvrgMqsllXrRdM4TjuQq7K0KI8ktQ3M9I"></script>
 </div>
 </div>
