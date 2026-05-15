@@ -22,6 +22,7 @@ Hi! I am Hairong Shi (史海容). I am a first-year Master's student in Computer
 I am a member of [SMILAB@Keio University](https://smilab.org/) since September 2025. I received my Bachelor's degree in Biomedical Engineering from the [School of Biological Science and Medical Engineering](https://bme.buaa.edu.cn/) at [Beihang University](https://ev.buaa.edu.cn/). During my undergraduate studies, I had the privilege of working as a Research Assistant for two years at [Colab@Beihang](https://colalab.net/) with Professor Si Liu. I have also gained industry experience as an AIGC Research Intern at [RightBrain.AI](https://rightbrainai.cn/home).
 
 # 🔥 News
+- *2026.05*: &nbsp;🎉🎉 One paper was **Early Accepted** to **MICCAI 2026** (Top 9%)!
 - *2025.03*: &nbsp;🎉🎉 Started my AIGC Research Internship at RightBrain.AI.
 - *2024.12*: &nbsp;🎉🎉 Our paper "VideoEspresso" was accepted to **CVPR 2025** as an **Oral presentation** (Top 0.7%)! 
 - *2024.06*: &nbsp;🎉🎉 Our paper "Mask-Enhanced Segment Anything Model" was accepted to **MICCAI 2024**!
@@ -85,3 +86,7 @@ Songhao Han, Wei Huang, **Hairong Shi**, Le Zhuo, Xiu Su, Shifeng Zhang, Xu Zhou
 # 📧 Contact
 - **Email**: shihr1025@gmail.com (Primary), 21375328@buaa.edu.cn
 - **GitHub**: [https://github.com/nanase1025](https://github.com/nanase1025)
+
+<div style="text-align: center; margin-top: 30px;">
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=BFFqIlrKn4IvrgMqsllXrRdM4TjuQq7K0KI8ktQ3M9I"></script>
+</div>
