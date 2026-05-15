@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I am Hairong Shi (史海容). I am a first-year Master's student in Computer Science at [Keio University](https://www.keio.ac.jp/), where I am fortunate to be supervised by Professor Komei Sugiura. My research interests lie in **Multimodal Large Language Models** and **Computer Vision**.
+Hi! I am Hairong Shi (史海容). I am a first-year Master's student in Computer Science at [Keio University](https://www.keio.ac.jp/), where I am fortunate to be supervised by Professor Komei Sugiura. My research interests lie in **Multimodal Large Language Models** and **Computer Vision**. <a href='https://scholar.google.com/citations?user=bgb9UpgAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 I am a member of [SMILAB@Keio University](https://smilab.org/) since September 2025. I received my Bachelor's degree in Biomedical Engineering from the [School of Biological Science and Medical Engineering](https://bme.buaa.edu.cn/) at [Beihang University](https://ev.buaa.edu.cn/). During my undergraduate studies, I had the privilege of working as a Research Assistant for two years at [Colab@Beihang](https://colalab.net/) with Professor Si Liu. I have also gained industry experience as an AIGC Research Intern at [RightBrain.AI](https://rightbrainai.cn/home).
 
