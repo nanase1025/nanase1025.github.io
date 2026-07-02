@@ -22,16 +22,19 @@
 
   setLanguage(getSavedLanguage());
 
-  document.addEventListener("DOMContentLoaded", function () {
-    var toggles = document.querySelectorAll("[data-language-toggle]");
+  document.addEventListener("click", function (event) {
+    var target = event.target;
 
-    Array.prototype.forEach.call(toggles, function (toggle) {
-      toggle.addEventListener("click", function (event) {
+    while (target && target !== document) {
+      if (target.getAttribute && target.getAttribute("data-language-toggle") !== null) {
         event.preventDefault();
 
         var current = document.documentElement.getAttribute("data-language");
         setLanguage(current === "ja" ? "en" : "ja");
-      });
-    });
+        return;
+      }
+
+      target = target.parentNode;
+    }
   });
 }());

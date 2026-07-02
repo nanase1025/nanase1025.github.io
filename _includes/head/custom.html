@@ -9,6 +9,45 @@
 <meta name="theme-color" content="#ffffff">
 <link rel="stylesheet" href="assets/css/academicons.css"/>
 
+<script>
+  (function () {
+    var language = "en";
+
+    try {
+      language = window.localStorage.getItem("site-language") || "en";
+    } catch (error) {
+      language = "en";
+    }
+
+    language = language === "ja" ? "ja" : "en";
+    document.documentElement.setAttribute("data-language", language);
+    document.documentElement.setAttribute("lang", language);
+  }());
+</script>
+
+<style>
+  .lang-ja,
+  .lang-ja-inline {
+    display: none !important;
+  }
+
+  html[data-language="ja"] .lang-en {
+    display: none !important;
+  }
+
+  html[data-language="ja"] .lang-ja {
+    display: block !important;
+  }
+
+  html[data-language="ja"] .lang-en-inline {
+    display: none !important;
+  }
+
+  html[data-language="ja"] .lang-ja-inline {
+    display: inline !important;
+  }
+</style>
+
 <script type="text/x-mathjax-config"> MathJax.Hub.Config({ TeX: { equationNumbers: { autoNumber: "all" } } }); </script>
 <script type="text/x-mathjax-config">
   MathJax.Hub.Config({
