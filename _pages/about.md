@@ -27,7 +27,7 @@ I am a member of [SMILAB@Keio University](https://smilab.org/) since September 2
 
 <div class="lang-ja" markdown="1">
 
-こんにちは。史海容（Hairong Shi）です。現在、[慶應義塾大学](https://www.keio.ac.jp/)で杉浦孔明教授のご指導のもと、コンピュータサイエンスを専攻する修士1年です。研究分野は **Vision-Language Model** と **Computer Vision** です。 <a href='https://scholar.google.com/citations?user=bgb9UpgAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+こんにちは。史海容（Hairong Shi）です。現在、[慶應義塾大学](https://www.keio.ac.jp/)で杉浦孔明教授のご指導のもと、情報理工学専攻の修士1年です。研究分野は **Vision-Language Model** と **Computer Vision** です。 <a href='https://scholar.google.com/citations?user=bgb9UpgAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 2025年9月より [SMILAB@Keio University](https://smilab.org/) に所属しています。[北京航空航天大学](https://ev.buaa.edu.cn/) [生物医学工程学院](https://bme.buaa.edu.cn/) で生体医工学の学士号を取得しました。学部在学中は、Si Liu 教授のもと [Colab@Beihang](https://colalab.net/) で2年間リサーチアシスタントとして研究に従事しました。また、[RightBrain.AI](https://rightbrainai.cn/home) で AIGC リサーチインターンとしての産業経験もあります。
 
@@ -59,7 +59,7 @@ I am a member of [SMILAB@Keio University](https://smilab.org/) since September 2
 
 <span class='anchor' id='publications'></span>
 
-# 📝 <span class="lang-en-inline">Publications</span><span class="lang-ja-inline">発表論文</span>
+# 📝 <span class="lang-en-inline">Publications</span><span class="lang-ja-inline">研究実績</span>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MIRU 2026</div><img src='images/miru.png' alt="Intent-R1" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -201,7 +201,7 @@ Songhao Han, Wei Huang, **Hairong Shi**, Le Zhuo, Xiu Su, Shifeng Zhang, Xu Zhou
 
 <div class="lang-ja" markdown="1">
 
-- *2025.09 - 2027.09*, **修士（コンピュータサイエンス）**, 慶應義塾大学, 日本
+- *2025.09 - 2027.09*, **修士（情報理工学専攻）**, 慶應義塾大学, 日本
 - *2021.09 - 2025.06*, **学士（生体医工学・医療人工知能）**, 北京航空航天大学, 中国
   - GPA: 3.78/4.0（上位5%）, 順位: 4/72
 

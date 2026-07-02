@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Hairong Shi"
 description              : "Keio University Master of Computer Science (2025.9~2027.9) Beihang University Bachelor of Biomedical Engineering (2021.9~2025.6)"
-description_ja           : "慶應義塾大学 コンピュータサイエンス修士課程（2025.9〜2027.9） 北京航空航天大学 生体医工学学士（2021.9〜2025.6）"
+description_ja           : "慶應義塾大学 情報理工学専攻 修士課程（2025.9〜2027.9） 北京航空航天大学 生体医工学学士（2021.9〜2025.6）"
 repository               : "nanase1025/nanase1025.github.io"
 google_scholar_stats_use_cdn : true
 

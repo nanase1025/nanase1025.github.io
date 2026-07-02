@@ -9,7 +9,7 @@ main:
     url: "/#news"
 
   - title: "Publications"
-    title_ja: "発表論文"
+    title_ja: "研究実績"
     url: "/#publications"
 
   - title: "Honors and Awards"
