@@ -40,6 +40,17 @@ Zichun Wang<sup>†</sup>, **Hairong Shi**<sup>†</sup>, Zihua Wang, Bingzheng 
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MIRU 2026</div><img src='images/miru.png' alt="Intent-R1" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Grounding What Users Mean: Open-Vocabulary Intention-Guided Object Detection in Diverse Scenes
+
+**Hairong Shi**, 杉浦孔明
+
+**MIRU 2026 Oral Presentation (Acceptance Rate: 33.5%)**
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/videoespresso.png' alt="VideoEspresso" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
