@@ -107,3 +107,39 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+.lang-ja,
+.lang-ja-inline {
+    display: none;
+}
+
+html[data-language="ja"] {
+    .lang-en {
+        display: none;
+    }
+
+    .lang-ja {
+        display: block;
+    }
+
+    .lang-en-inline {
+        display: none;
+    }
+
+    .lang-ja-inline {
+        display: inline;
+    }
+}
+
+.greedy-nav a.language-toggle {
+    margin-left: 1.25rem;
+    padding-left: .65rem;
+    padding-right: .65rem;
+    border: 1px solid $border-color;
+    border-radius: 4px;
+    line-height: 1.3;
+}
+
+.greedy-nav a.language-toggle:before {
+    display: none;
+}

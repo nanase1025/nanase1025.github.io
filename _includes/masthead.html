@@ -4,10 +4,11 @@
       <nav id="site-nav" class="greedy-nav">
         <button><div class="navicon"></div></button>
         <ul class="visible-links">
-          <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item"><a href="#about-me">Homepage</a></li>
+          <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item"><a href="#about-me"><span class="lang-en-inline">Homepage</span><span class="lang-ja-inline">ホーム</span></a></li>
           {% for link in site.data.navigation.main %}
-            <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
+            <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}"><span class="lang-en-inline">{{ link.title }}</span><span class="lang-ja-inline">{{ link.title_ja | default: link.title }}</span></a></li>
           {% endfor %}
+          <li class="masthead__menu-item"><a href="#" class="language-toggle" data-language-toggle><span class="lang-en-inline">日本語</span><span class="lang-ja-inline">English</span></a></li>
         </ul>
         <ul class="hidden-links hidden"></ul>
       </nav>
