@@ -105,7 +105,7 @@ MedVol-R1: Reward-Driven Evidence Grounding for Volumetric Reasoning Segmentatio
 
 Zichun Wang<sup>†</sup>, **Hairong Shi**<sup>†</sup>, Zihua Wang, Bingzheng Wei, Yan Xu
 
-<sup>†</sup>同等貢献 | **MICCAI 2026 Early Accept (Top 9%)**
+<sup>†</sup>Equal Contribution | **MICCAI 2026 Early Accept (Top 9%)**
 
 </div>
 </div>
