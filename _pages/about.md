@@ -22,12 +22,24 @@ Hi! I am Hairong Shi (史海容). I am a first-year Master's student in Computer
 I am a member of [SMILAB@Keio University](https://smilab.org/) since September 2025. I received my Bachelor's degree in Biomedical Engineering from the [School of Biological Science and Medical Engineering](https://bme.buaa.edu.cn/) at [Beihang University](https://ev.buaa.edu.cn/). During my undergraduate studies, I had the privilege of working as a Research Assistant for two years at [Colab@Beihang](https://colalab.net/) with Professor Si Liu. I have also gained industry experience as an AIGC Research Intern at [RightBrain.AI](https://rightbrainai.cn/home).
 
 # 🔥 News
+- *2026.06*: &nbsp;🎉🎉 Our paper "Grounding What Users Mean" was accepted to **MIRU 2026 (第29回 画像の認識・理解シンポジウム)** as an **Oral Presentation** (Acceptance Rate: 33.5%)!
 - *2026.05*: &nbsp;🎉🎉 One paper was **Early Accepted** to **MICCAI 2026** (Top 9%)!
 - *2025.03*: &nbsp;🎉🎉 Started my AIGC Research Internship at RightBrain.AI.
 - *2024.12*: &nbsp;🎉🎉 Our paper "VideoEspresso" was accepted to **CVPR 2025** as an **Oral presentation** (Top 0.7%)! 
 - *2024.06*: &nbsp;🎉🎉 Our paper "Mask-Enhanced Segment Anything Model" was accepted to **MICCAI 2024**!
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MIRU 2026</div><img src='images/miru.png' alt="Intent-R1" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Grounding What Users Mean: Open-Vocabulary Intention-Guided Object Detection in Diverse Scenes
+
+**Hairong Shi**, 杉浦孔明
+
+**MIRU 2026 (第29回 画像の認識・理解シンポジウム) Oral Presentation (Acceptance Rate: 33.5%)**
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2026</div><img src='images/medvolr1.png' alt="MedVol-R1" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -37,17 +49,6 @@ MedVol-R1: Reward-Driven Evidence Grounding for Volumetric Reasoning Segmentatio
 Zichun Wang<sup>†</sup>, **Hairong Shi**<sup>†</sup>, Zihua Wang, Bingzheng Wei, Yan Xu
 
 <sup>†</sup>Equal Contribution | **MICCAI 2026 Early Accept (Top 9%)**
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MIRU 2026</div><img src='images/miru.png' alt="Intent-R1" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-Grounding What Users Mean: Open-Vocabulary Intention-Guided Object Detection in Diverse Scenes
-
-**Hairong Shi**, 杉浦孔明
-
-**MIRU 2026 Oral Presentation (Acceptance Rate: 33.5%)**
 </div>
 </div>
 
