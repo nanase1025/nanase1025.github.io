@@ -95,7 +95,7 @@ MedVol-R1: Reward-Driven Evidence Grounding for Volumetric Reasoning Segmentatio
 
 Zichun Wang<sup>†</sup>, **Hairong Shi**<sup>†</sup>, Zihua Wang, Bingzheng Wei, Yan Xu
 
-<sup>†</sup>Equal Contribution | **MICCAI 2026 Early Accept (Top 9%)**
+[**Project**](https://github.com/AdvancingEther/MedVol-R1) | [**Paper**](https://arxiv.org/pdf/2605.26621) | <sup>†</sup>Equal Contribution | **MICCAI 2026 Early Accept (Top 9%)**
 
 </div>
 
@@ -105,7 +105,7 @@ MedVol-R1: Reward-Driven Evidence Grounding for Volumetric Reasoning Segmentatio
 
 Zichun Wang<sup>†</sup>, **Hairong Shi**<sup>†</sup>, Zihua Wang, Bingzheng Wei, Yan Xu
 
-<sup>†</sup>Equal Contribution | **MICCAI 2026 Early Accept (Top 9%)**
+[**Project**](https://github.com/AdvancingEther/MedVol-R1) | [**Paper**](https://arxiv.org/pdf/2605.26621) | <sup>†</sup>Equal Contribution | **MICCAI 2026 Early Accept (Top 9%)**
 
 </div>
 </div>
