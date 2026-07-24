@@ -70,6 +70,8 @@ Grounding What Users Mean: Open-Vocabulary Intention-Guided Object Detection in 
 
 **Hairong Shi**, 杉浦孔明
 
+[**Project**](https://diverseintention-84zzt.kinsta.page/)
+
 **MIRU 2026 (第29回 画像の認識・理解シンポジウム) Oral Presentation (Acceptance Rate: 33.5%)**
 
 </div>
@@ -79,6 +81,8 @@ Grounding What Users Mean: Open-Vocabulary Intention-Guided Object Detection in 
 Grounding What Users Mean: Open-Vocabulary Intention-Guided Object Detection in Diverse Scenes
 
 **Hairong Shi**, 杉浦孔明
+
+[**Project**](https://diverseintention-84zzt.kinsta.page/)
 
 **MIRU 2026 (第29回 画像の認識・理解シンポジウム) 口頭発表（採択率: 33.5%）**
 
