@@ -3,6 +3,16 @@
 
   previews.forEach(function (preview) {
     var deckUrl = preview.getAttribute("data-speakerdeck-url");
+    var directThumbnail = preview.getAttribute("data-speakerdeck-thumbnail");
+
+    if (directThumbnail) {
+      preview.addEventListener("error", function () {
+        preview.src = preview.getAttribute("data-fallback-src");
+      }, { once: true });
+      preview.src = directThumbnail;
+      return;
+    }
+
     var endpoint = "https://speakerdeck.com/oembed.json?url=" + encodeURIComponent(deckUrl);
 
     fetch(endpoint)

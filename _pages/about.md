@@ -172,7 +172,7 @@ Songhao Han, Wei Huang, **Hairong Shi**, Le Zhuo, Xiu Su, Shifeng Zhang, Xu Zhou
 <div class='paper-box'>
 <div class='talk-box-image'>
 <a href="https://speakerdeck.com/keio_smilab/miru26-open-vocabulary-intention-guided-object-detection-in-diverse-scenes" target="_blank" rel="noopener">
-<img src='images/miru.png' alt="MIRU 2026 presentation slides" data-speakerdeck-url="https://speakerdeck.com/keio_smilab/miru26-open-vocabulary-intention-guided-object-detection-in-diverse-scenes" loading="lazy">
+<img src='images/miru.png' alt="MIRU 2026 presentation slides" data-speakerdeck-url="https://speakerdeck.com/keio_smilab/miru26-open-vocabulary-intention-guided-object-detection-in-diverse-scenes" data-speakerdeck-thumbnail="https://files.speakerdeck.com/presentations/a3c0c24b4e47436ca83930e4ce1f202f/slide_0.jpg?40151118" data-fallback-src="images/miru.png" loading="lazy">
 </a>
 </div>
 <div class='talk-box-text' markdown="1">
