@@ -70,7 +70,7 @@ Grounding What Users Mean: Open-Vocabulary Intention-Guided Object Detection in 
 
 **Hairong Shi**, 杉浦孔明
 
-[**Project**](https://diverseintention-84zzt.kinsta.page/)
+[**Project**](https://diverseintention-84zzt.kinsta.page/) | [**Slides**](https://speakerdeck.com/keio_smilab/miru26-open-vocabulary-intention-guided-object-detection-in-diverse-scenes)
 
 **MIRU 2026 (第29回 画像の認識・理解シンポジウム) Oral Presentation (Acceptance Rate: 33.5%)**
 
@@ -82,7 +82,7 @@ Grounding What Users Mean: Open-Vocabulary Intention-Guided Object Detection in 
 
 **Hairong Shi**, 杉浦孔明
 
-[**Project**](https://diverseintention-84zzt.kinsta.page/)
+[**Project**](https://diverseintention-84zzt.kinsta.page/) | [**Slides**](https://speakerdeck.com/keio_smilab/miru26-open-vocabulary-intention-guided-object-detection-in-diverse-scenes)
 
 **MIRU 2026 (第29回 画像の認識・理解シンポジウム) 口頭発表（採択率: 33.5%）**
 
@@ -160,6 +160,40 @@ Songhao Han, Wei Huang, **Hairong Shi**, Le Zhuo, Xiu Su, Shifeng Zhang, Xu Zhou
 **Hairong Shi**, Songhao Han, Shaofei Huang, Yue Liao, Guanbin Li, Xiangxing Kong, Hua Zhu, Xiaomu Wang, Si Liu
 
 [**Project**](https://github.com/nanase1025/M-SAM) | [**Paper**](https://papers.miccai.org/miccai-2024/paper/0762_paper.pdf) | **MICCAI 2024 ポスター（採択率: 31%）**
+
+</div>
+</div>
+</div>
+
+<span class='anchor' id='talks'></span>
+
+# 🎤 <span class="lang-en-inline">Talks</span><span class="lang-ja-inline">講演</span>
+
+<div class='paper-box'>
+<div class='talk-box-image'>
+<a href="https://speakerdeck.com/keio_smilab/miru26-open-vocabulary-intention-guided-object-detection-in-diverse-scenes" target="_blank" rel="noopener">
+<img src='images/miru.png' alt="MIRU 2026 presentation slides" data-speakerdeck-url="https://speakerdeck.com/keio_smilab/miru26-open-vocabulary-intention-guided-object-detection-in-diverse-scenes" loading="lazy">
+</a>
+</div>
+<div class='talk-box-text' markdown="1">
+
+<div class="lang-en" markdown="1">
+
+Grounding What Users Mean: Open-Vocabulary Intention-Guided Object Detection in Diverse Scenes
+
+**MIRU 2026 (第29回 画像の認識・理解シンポジウム) Oral Presentation**
+
+[**Slides**](https://speakerdeck.com/keio_smilab/miru26-open-vocabulary-intention-guided-object-detection-in-diverse-scenes)
+
+</div>
+
+<div class="lang-ja" markdown="1">
+
+Grounding What Users Mean: Open-Vocabulary Intention-Guided Object Detection in Diverse Scenes
+
+**MIRU 2026 (第29回 画像の認識・理解シンポジウム) 口頭発表**
+
+[**スライド**](https://speakerdeck.com/keio_smilab/miru26-open-vocabulary-intention-guided-object-detection-in-diverse-scenes)
 
 </div>
 </div>

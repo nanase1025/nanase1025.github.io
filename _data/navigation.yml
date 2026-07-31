@@ -12,6 +12,10 @@ main:
     title_ja: "研究実績"
     url: "/#publications"
 
+  - title: "Talks"
+    title_ja: "講演"
+    url: "/#talks"
+
   - title: "Honors and Awards"
     title_ja: "受賞"
     url: "/#honors"
