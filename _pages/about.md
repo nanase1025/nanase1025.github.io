@@ -39,7 +39,7 @@ I am a member of [SMILAB@Keio University](https://smilab.org/) since September 2
 
 <div class="lang-en" markdown="1">
 
-- *2026.06*: &nbsp;🎉🎉 Our paper "Grounding What Users Mean" was accepted to **MIRU 2026 (第29回 画像の認識・理解シンポジウム)** as an **Oral Presentation** (Acceptance Rate: 33.5%)!
+- *2026.06*: &nbsp;🎉🎉 Our paper "Dual-Reward Reinforcement Learning for Open-Vocabulary Intention-Guided Object Detection in Diverse Scenes" was accepted to **MIRU 2026 (第29回 画像の認識・理解シンポジウム)** as an **Oral Presentation** (Acceptance Rate: 33.5%)!
 - *2026.05*: &nbsp;🎉🎉 One paper was **Early Accepted** to **MICCAI 2026** (Top 9%)!
 - *2025.03*: &nbsp;🎉🎉 Started my AIGC Research Internship at RightBrain.AI.
 - *2024.12*: &nbsp;🎉🎉 Our paper "VideoEspresso" was accepted to **CVPR 2025** as an **Oral presentation** (Top 0.7%)!
@@ -49,7 +49,7 @@ I am a member of [SMILAB@Keio University](https://smilab.org/) since September 2
 
 <div class="lang-ja" markdown="1">
 
-- *2026.06*: &nbsp;🎉🎉 論文 "Grounding What Users Mean" が **MIRU 2026 (第29回 画像の認識・理解シンポジウム)** に **口頭発表** として採択されました（採択率: 33.5%）!
+- *2026.06*: &nbsp;🎉🎉 論文 "多様なシーンにおける Open-Vocabulary Intention-Guided Object Detection" が **MIRU 2026 (第29回 画像の認識・理解シンポジウム)** に **口頭発表** として採択されました（採択率: 33.5%）!
 - *2026.05*: &nbsp;🎉🎉 論文1編が **MICCAI 2026** に **Early Accept** として採択されました（Top 9%）!
 - *2025.03*: &nbsp;🎉🎉 RightBrain.AI で AIGC リサーチインターンを開始しました。
 - *2024.12*: &nbsp;🎉🎉 論文 "VideoEspresso" が **CVPR 2025** に **口頭発表** として採択されました（Top 0.7%）!
@@ -66,7 +66,7 @@ I am a member of [SMILAB@Keio University](https://smilab.org/) since September 2
 
 <div class="lang-en" markdown="1">
 
-Grounding What Users Mean: Open-Vocabulary Intention-Guided Object Detection in Diverse Scenes
+Dual-Reward Reinforcement Learning for Open-Vocabulary Intention-Guided Object Detection in Diverse Scenes
 
 **Hairong Shi**, 杉浦孔明
 
@@ -78,7 +78,7 @@ Grounding What Users Mean: Open-Vocabulary Intention-Guided Object Detection in 
 
 <div class="lang-ja" markdown="1">
 
-Grounding What Users Mean: Open-Vocabulary Intention-Guided Object Detection in Diverse Scenes
+多様なシーンにおける Open-Vocabulary Intention-Guided Object Detection
 
 **Hairong Shi**, 杉浦孔明
 
@@ -179,7 +179,7 @@ Songhao Han, Wei Huang, **Hairong Shi**, Le Zhuo, Xiu Su, Shifeng Zhang, Xu Zhou
 
 <div class="lang-en" markdown="1">
 
-Grounding What Users Mean: Open-Vocabulary Intention-Guided Object Detection in Diverse Scenes
+Dual-Reward Reinforcement Learning for Open-Vocabulary Intention-Guided Object Detection in Diverse Scenes
 
 **MIRU 2026 (第29回 画像の認識・理解シンポジウム) Oral Presentation**
 
@@ -189,7 +189,7 @@ Grounding What Users Mean: Open-Vocabulary Intention-Guided Object Detection in 
 
 <div class="lang-ja" markdown="1">
 
-Grounding What Users Mean: Open-Vocabulary Intention-Guided Object Detection in Diverse Scenes
+多様なシーンにおける Open-Vocabulary Intention-Guided Object Detection
 
 **MIRU 2026 (第29回 画像の認識・理解シンポジウム) 口頭発表**
 
