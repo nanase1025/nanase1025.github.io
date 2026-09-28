@@ -273,6 +273,10 @@ Dual-Reward Reinforcement Learning for Open-Vocabulary Intention-Guided Object D
 
 <div class="lang-en" markdown="1">
 
+- *2026.09 - 2026.12*, **Research Scientist Intern**, AI & Data Division, Rakuten Group, Tokyo, Japan
+  - Working on post-training of LLMs/MLLMs for FinTech applications.
+- *2026.08 - 2026.09*, **Specialist Intern**, DeNA, Tokyo, Japan
+  - Developed a GUI & diagram generation agent.
 - *2025.03 - 2025.07*, **AIGC Research Intern**, RightBrain.AI, Beijing, China
   - Developed and experimented with generative models for lipsync, video generation agent.
 - *2024.07 - 2024.09*, **Medical MLLM Research Intern**, United Imaging Intelligence, Beijing, China
@@ -282,6 +286,10 @@ Dual-Reward Reinforcement Learning for Open-Vocabulary Intention-Guided Object D
 
 <div class="lang-ja" markdown="1">
 
+- *2026.09 - 2026.12*, **リサーチサイエンティストインターン**, AI & Data Division, 楽天グループ, 東京, 日本
+  - FinTech 向け LLM/MLLM のポストトレーニングに従事しています。
+- *2026.08 - 2026.09*, **スペシャリストインターン**, DeNA, 東京, 日本
+  - GUI・ダイアグラム生成エージェントの開発に従事しました。
 - *2025.03 - 2025.07*, **AIGC リサーチインターン**, RightBrain.AI, 北京, 中国
   - リップシンクおよび動画生成エージェント向けの生成モデルの開発と実験に従事しました。
 - *2024.07 - 2024.09*, **医療 MLLM リサーチインターン**, United Imaging Intelligence, 北京, 中国
