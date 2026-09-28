@@ -21,6 +21,8 @@ redirect_from:
 
 Hi! I am Hairong Shi (史海容). I am a first-year Master's student in Computer Science at [Keio University](https://www.keio.ac.jp/), where I am fortunate to be supervised by Professor Komei Sugiura. My research interests lie in **Vision-Language Model** and **Computer Vision**. <a href='https://scholar.google.com/citations?user=bgb9UpgAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
+I am currently a Research Scientist Intern at the [AI & Data Division](https://ai.rakuten.com/about-us/) of Rakuten Group, working on post-training of LLMs/MLLMs for FinTech applications.
+
 I am a member of [SMILAB@Keio University](https://smilab.org/) since September 2025. I received my Bachelor's degree in Biomedical Engineering from the [School of Biological Science and Medical Engineering](https://bme.buaa.edu.cn/) at [Beihang University](https://ev.buaa.edu.cn/). During my undergraduate studies, I had the privilege of working as a Research Assistant for two years at [Colab@Beihang](https://colalab.net/) with Professor Si Liu. I have also gained industry experience as an AIGC Research Intern at [RightBrain.AI](https://rightbrainai.cn/home).
 
 </div>
@@ -28,6 +30,8 @@ I am a member of [SMILAB@Keio University](https://smilab.org/) since September 2
 <div class="lang-ja" markdown="1">
 
 こんにちは。史海容（Hairong Shi）です。現在、[慶應義塾大学](https://www.keio.ac.jp/)で杉浦孔明教授のご指導のもと、情報理工学専攻の修士1年です。研究分野は **Vision-Language Model** と **Computer Vision** です。 <a href='https://scholar.google.com/citations?user=bgb9UpgAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+
+現在、楽天グループ [AI & Data Division](https://ai.rakuten.com/ja/about-us/) にてリサーチサイエンティストインターンとして、FinTech 向け LLM/MLLM のポストトレーニングに取り組んでいます。
 
 2025年9月より [SMILAB@Keio University](https://smilab.org/) に所属しています。[北京航空航天大学](https://ev.buaa.edu.cn/) [生物医学工程学院](https://bme.buaa.edu.cn/) で生体医工学の学士号を取得しました。学部在学中は、Si Liu 教授のもと [Colab@Beihang](https://colalab.net/) で2年間リサーチアシスタントとして研究に従事しました。また、[RightBrain.AI](https://rightbrainai.cn/home) で AIGC リサーチインターンとしての産業経験もあります。
 
