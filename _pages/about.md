@@ -39,6 +39,8 @@ I am a member of [SMILAB@Keio University](https://smilab.org/) since September 2
 
 <div class="lang-en" markdown="1">
 
+- *2026.09*: &nbsp;🎉🎉 Started my Research Scientist Internship at Rakuten Group (AI & Data Division).
+- *2026.08*: &nbsp;🎉🎉 Started my Specialist Internship at DeNA.
 - *2026.06*: &nbsp;🎉🎉 Our paper "Dual-Reward Reinforcement Learning for Open-Vocabulary Intention-Guided Object Detection in Diverse Scenes" was accepted to **MIRU 2026 (第29回 画像の認識・理解シンポジウム)** as an **Oral Presentation** (Acceptance Rate: 33.5%)!
 - *2026.05*: &nbsp;🎉🎉 One paper was **Early Accepted** to **MICCAI 2026** (Top 9%)!
 - *2025.03*: &nbsp;🎉🎉 Started my AIGC Research Internship at RightBrain.AI.
@@ -49,6 +51,8 @@ I am a member of [SMILAB@Keio University](https://smilab.org/) since September 2
 
 <div class="lang-ja" markdown="1">
 
+- *2026.09*: &nbsp;🎉🎉 楽天グループ（AI & Data Division）でリサーチサイエンティストインターンを開始しました。
+- *2026.08*: &nbsp;🎉🎉 DeNA でスペシャリストインターンを開始しました。
 - *2026.06*: &nbsp;🎉🎉 論文 "多様なシーンにおける Open-Vocabulary Intention-Guided Object Detection" が **MIRU 2026 (第29回 画像の認識・理解シンポジウム)** に **口頭発表** として採択されました（採択率: 33.5%）!
 - *2026.05*: &nbsp;🎉🎉 論文1編が **MICCAI 2026** に **Early Accept** として採択されました（Top 9%）!
 - *2025.03*: &nbsp;🎉🎉 RightBrain.AI で AIGC リサーチインターンを開始しました。
@@ -165,6 +169,36 @@ Songhao Han, Wei Huang, **Hairong Shi**, Le Zhuo, Xiu Su, Shifeng Zhang, Xu Zhou
 </div>
 </div>
 
+<span class='anchor' id='internships'></span>
+
+# 💻 <span class="lang-en-inline">Internships</span><span class="lang-ja-inline">インターンシップ</span>
+
+<div class="lang-en" markdown="1">
+
+- *2026.09 - 2026.12*, **Research Scientist Intern**, AI & Data Division, Rakuten Group, Tokyo, Japan
+  - Working on post-training of LLMs/MLLMs for FinTech applications.
+- *2026.08 - 2026.09*, **Specialist Intern**, DeNA, Tokyo, Japan
+  - Developed a GUI & diagram generation agent.
+- *2025.03 - 2025.07*, **AIGC Research Intern**, RightBrain.AI, Beijing, China
+  - Developed and experimented with generative models for lipsync, video generation agent.
+- *2024.07 - 2024.09*, **Medical MLLM Research Intern**, United Imaging Intelligence, Beijing, China
+  - Contributed to the development of a Multimodal Large Language Model for Medical MLLM.
+
+</div>
+
+<div class="lang-ja" markdown="1">
+
+- *2026.09 - 2026.12*, **リサーチサイエンティストインターン**, AI & Data Division, 楽天グループ, 東京, 日本
+  - FinTech 向け LLM/MLLM のポストトレーニングに従事しています。
+- *2026.08 - 2026.09*, **スペシャリストインターン**, DeNA, 東京, 日本
+  - GUI・ダイアグラム生成エージェントの開発に従事しました。
+- *2025.03 - 2025.07*, **AIGC リサーチインターン**, RightBrain.AI, 北京, 中国
+  - リップシンクおよび動画生成エージェント向けの生成モデルの開発と実験に従事しました。
+- *2024.07 - 2024.09*, **医療 MLLM リサーチインターン**, United Imaging Intelligence, 北京, 中国
+  - 医療 MLLM のためのマルチモーダル大規模言語モデルの開発に貢献しました。
+
+</div>
+
 <span class='anchor' id='talks'></span>
 
 # 🎤 <span class="lang-en-inline">Talks</span><span class="lang-ja-inline">講演</span>
@@ -264,36 +298,6 @@ Dual-Reward Reinforcement Learning for Open-Vocabulary Intention-Guided Object D
   - 動画理解と医用画像セグメンテーションに関する研究に従事しました。"VideoEspresso" と "M-SAM" プロジェクトに貢献し、CVPR および MICCAI での発表につながりました。
 - *2023.04 - 2023.07*, **リサーチアシスタント**, 北京航空航天大学, 指導教員: A.P. Guanglei Zhang
   - 医用コンピュータビジョンに関する研究に従事しました。
-
-</div>
-
-<span class='anchor' id='internships'></span>
-
-# 💻 <span class="lang-en-inline">Internships</span><span class="lang-ja-inline">インターンシップ</span>
-
-<div class="lang-en" markdown="1">
-
-- *2026.09 - 2026.12*, **Research Scientist Intern**, AI & Data Division, Rakuten Group, Tokyo, Japan
-  - Working on post-training of LLMs/MLLMs for FinTech applications.
-- *2026.08 - 2026.09*, **Specialist Intern**, DeNA, Tokyo, Japan
-  - Developed a GUI & diagram generation agent.
-- *2025.03 - 2025.07*, **AIGC Research Intern**, RightBrain.AI, Beijing, China
-  - Developed and experimented with generative models for lipsync, video generation agent.
-- *2024.07 - 2024.09*, **Medical MLLM Research Intern**, United Imaging Intelligence, Beijing, China
-  - Contributed to the development of a Multimodal Large Language Model for Medical MLLM.
-
-</div>
-
-<div class="lang-ja" markdown="1">
-
-- *2026.09 - 2026.12*, **リサーチサイエンティストインターン**, AI & Data Division, 楽天グループ, 東京, 日本
-  - FinTech 向け LLM/MLLM のポストトレーニングに従事しています。
-- *2026.08 - 2026.09*, **スペシャリストインターン**, DeNA, 東京, 日本
-  - GUI・ダイアグラム生成エージェントの開発に従事しました。
-- *2025.03 - 2025.07*, **AIGC リサーチインターン**, RightBrain.AI, 北京, 中国
-  - リップシンクおよび動画生成エージェント向けの生成モデルの開発と実験に従事しました。
-- *2024.07 - 2024.09*, **医療 MLLM リサーチインターン**, United Imaging Intelligence, 北京, 中国
-  - 医療 MLLM のためのマルチモーダル大規模言語モデルの開発に貢献しました。
 
 </div>
 

@@ -12,6 +12,10 @@ main:
     title_ja: "研究実績"
     url: "/#publications"
 
+  - title: "Internships"
+    title_ja: "インターン"
+    url: "/#internships"
+
   - title: "Talks"
     title_ja: "講演"
     url: "/#talks"
@@ -23,7 +27,3 @@ main:
   - title: "Education"
     title_ja: "学歴"
     url: "/#education"
-
-  - title: "Internships"
-    title_ja: "インターン"
-    url: "/#internships"
